@@ -1,7 +1,6 @@
 Understanding Indirect Answers in Dialogue Systems - Inferring direct answers from indirect answers to questions. 
 
-A reproduction of the results and experiments carried out by Louis et al (2020) 
-
+A reproduction of the results and experiments carried out by Louis et al (2020) -
 Louis, A., Roth, D. and Radlinski, F., 2020. "I'd rather just go to bed": Understanding Indirect Answers. [online] arXiv.org. Available at: <https://arxiv.org/abs/2010.03450> . 
 
 
